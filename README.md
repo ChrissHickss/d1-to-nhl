@@ -3,5 +3,5 @@ This is a project inspired by Patrick Bacon's TopDownHockey Scraper project wher
 
 Some tips to make sure your file runs correctly when you clone this down:
 
-*First create a virtual environment. (I like to do 'python -m venv venv' then 'source venv/bin/activate')
-*Be sure to 'pip install -r requirements.txt' to ensure you have all the correct dependencies. But only after you have a virtual environment.
+* First create a virtual environment. (I like to do 'python -m venv venv' then 'source venv/bin/activate')
+* Be sure to 'pip install -r requirements.txt' to ensure you have all the correct dependencies. But only after you have a virtual environment.
