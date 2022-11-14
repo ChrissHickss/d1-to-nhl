@@ -1,5 +1,5 @@
 # d1-to-nhl
-This is a project inspired by Patrick Bacon's TopDownHockey Scraper project where he predicts NHL success based off AHL success. I predicted NHL success based off NCAA success. 
+This is a project inspired by Patrick Bacon's TopDownHockey Scraper project. I used his TDH Scraper package to predict NHL success based off NCAA success. 
 
 Some tips to make sure your file runs correctly when you clone this down:
 
